@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Farmapp/static/css/main.0d12d6cb.chunk.css",
+    "main.js": "/Farmapp/static/js/main.c33a5d88.chunk.js",
+    "main.js.map": "/Farmapp/static/js/main.c33a5d88.chunk.js.map",
+    "runtime-main.js": "/Farmapp/static/js/runtime-main.56f138d3.js",
+    "runtime-main.js.map": "/Farmapp/static/js/runtime-main.56f138d3.js.map",
+    "static/js/2.16ce4c96.chunk.js": "/Farmapp/static/js/2.16ce4c96.chunk.js",
+    "static/js/2.16ce4c96.chunk.js.map": "/Farmapp/static/js/2.16ce4c96.chunk.js.map",
+    "index.html": "/Farmapp/index.html",
+    "static/css/main.0d12d6cb.chunk.css.map": "/Farmapp/static/css/main.0d12d6cb.chunk.css.map",
+    "static/js/2.16ce4c96.chunk.js.LICENSE.txt": "/Farmapp/static/js/2.16ce4c96.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Farmapp/static/media/img-8.fabdf94d.jpg",
+    "static/media/HeroSection.css": "/Farmapp/static/media/img-home.cff5b7a9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56f138d3.js",
+    "static/js/2.16ce4c96.chunk.js",
+    "static/css/main.0d12d6cb.chunk.css",
+    "static/js/main.c33a5d88.chunk.js"
+  ]
+}
